@@ -19,12 +19,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abinash-swain/node-developer-toolkit.git"
+    "url": "git+https://github.com/swain-abinash/node-developer-toolkit.git"
   },
   "bugs": {
-    "url": "https://github.com/abinash-swain/node-developer-toolkit/issues"
+    "url": "https://github.com/swain-abinash/node-developer-toolkit/issues"
   },
-  "homepage": "https://github.com/abinash-swain/node-developer-toolkit#readme",
+  "homepage": "https://github.com/swain-abinash/node-developer-toolkit#readme",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
