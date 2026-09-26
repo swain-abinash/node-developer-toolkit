@@ -1,6 +1,6 @@
 {
   "name": "@abinashswain/node-developer-toolkit",
-  "version": "1.0.0",
+  "version": "1.1.0-next.0",
   "description": "Production-grade utility toolkit for Node.js and Express applications providing standardized API responses, error handling, structured logging, async handlers, pagination, and validation.",
   "keywords": [
     "nodejs",
