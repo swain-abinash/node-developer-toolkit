@@ -1,0 +1,21 @@
+# Source code & configs not needed in npm tarball
+src/
+tests/
+examples/
+.github/
+.vscode/
+
+# Config files
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+
+# Logs & coverage
+coverage/
+*.log
+.DS_Store
+
+# Git
+.git
+.gitignore
+.npmignore
